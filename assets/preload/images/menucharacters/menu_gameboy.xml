@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_gameboy.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="menu_gameboy0000" x="0" y="0" width="363" height="315" frameX="0" frameY="-10" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0001" x="0" y="0" width="363" height="315" frameX="0" frameY="-10" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0002" x="363" y="0" width="348" height="316" frameX="-7" frameY="-10" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0003" x="363" y="0" width="348" height="316" frameX="-7" frameY="-10" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0004" x="0" y="316" width="343" height="320" frameX="-10" frameY="-6" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0005" x="0" y="316" width="343" height="320" frameX="-10" frameY="-6" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0006" x="343" y="316" width="336" height="326" frameX="-13" frameY="0" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0007" x="343" y="316" width="336" height="326" frameX="-13" frameY="0" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0008" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0009" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0010" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0011" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0012" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0013" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0014" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+	<SubTexture name="menu_gameboy0015" x="679" y="316" width="336" height="239" frameX="-13" frameY="-87" frameWidth="363" frameHeight="326"/>
+</TextureAtlas>

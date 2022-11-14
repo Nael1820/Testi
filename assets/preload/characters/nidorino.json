@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nido idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-54
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nido left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nido down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				-35
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nido up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nido right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-48
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "nido left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				14
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "nido down miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-19,
+				-33
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "nido up miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-22,
+				-58
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "nido right miss0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nidorino",
+	"position": [
+		10,
+		270
+	],
+	"healthicon": "nidorino",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		121,
+		167
+	],
+	"camera_position": [
+		-390,
+		-60
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

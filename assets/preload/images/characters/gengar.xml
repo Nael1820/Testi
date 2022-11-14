@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gengar.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gengar down0000" x="0" y="0" width="469" height="392" frameX="-8" frameY="-15" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0001" x="0" y="0" width="469" height="392" frameX="-8" frameY="-15" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0002" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0003" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0004" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0005" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0006" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0007" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0008" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0009" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0010" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0011" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0012" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0013" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar down0014" x="469" y="0" width="466" height="407" frameX="0" frameY="0" frameWidth="477" frameHeight="407"/>
+	<SubTexture name="gengar idle0000" x="935" y="0" width="516" height="402" frameX="-1" frameY="-32" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0001" x="935" y="0" width="516" height="402" frameX="-1" frameY="-32" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0002" x="1451" y="0" width="510" height="411" frameX="-1" frameY="-22" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0003" x="1451" y="0" width="510" height="411" frameX="-1" frameY="-22" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0004" x="0" y="411" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0005" x="0" y="411" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0006" x="503" y="411" width="501" height="434" frameX="0" frameY="0" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0007" x="503" y="411" width="501" height="434" frameX="0" frameY="0" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0008" x="1004" y="411" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0009" x="1004" y="411" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0010" x="1507" y="411" width="504" height="428" frameX="-1" frameY="-6" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0011" x="0" y="845" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0012" x="0" y="845" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0013" x="0" y="845" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0014" x="0" y="845" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar idle0015" x="0" y="845" width="503" height="429" frameX="-1" frameY="-5" frameWidth="517" frameHeight="434"/>
+	<SubTexture name="gengar left0000" x="503" y="845" width="467" height="432" frameX="-4" frameY="0" frameWidth="482" frameHeight="432"/>
+	<SubTexture name="gengar left0001" x="503" y="845" width="467" height="432" frameX="-4" frameY="0" frameWidth="482" frameHeight="432"/>
+	<SubTexture name="gengar left0002" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0003" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0004" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0005" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0006" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0007" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0008" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0009" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0010" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0011" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0012" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0013" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar left0014" x="970" y="845" width="482" height="432"/>
+	<SubTexture name="gengar right0000" x="1452" y="845" width="533" height="456"/>
+	<SubTexture name="gengar right0001" x="1452" y="845" width="533" height="456"/>
+	<SubTexture name="gengar right0002" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0003" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0004" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0005" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0006" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0007" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0008" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0009" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0010" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0011" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0012" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0013" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar right0014" x="0" y="1301" width="507" height="456" frameX="0" frameY="0" frameWidth="533" frameHeight="456"/>
+	<SubTexture name="gengar up0000" x="507" y="1301" width="460" height="458" frameX="-7" frameY="0" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0001" x="507" y="1301" width="460" height="458" frameX="-7" frameY="0" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0002" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0003" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0004" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0005" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0006" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0007" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0008" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0009" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0010" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0011" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0012" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0013" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+	<SubTexture name="gengar up0014" x="967" y="1301" width="475" height="443" frameX="0" frameY="-15" frameWidth="475" frameHeight="458"/>
+</TextureAtlas>

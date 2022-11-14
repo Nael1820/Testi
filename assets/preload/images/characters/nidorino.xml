@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nidorino.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nido down0000" x="0" y="0" width="439" height="424" frameX="0" frameY="-1" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0001" x="0" y="0" width="439" height="424" frameX="0" frameY="-1" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0002" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0003" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0004" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0005" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0006" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0007" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0008" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0009" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0010" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0011" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0012" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0013" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down0014" x="439" y="0" width="424" height="425" frameX="-13" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0000" x="0" y="0" width="439" height="424" frameX="0" frameY="-1" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0001" x="863" y="0" width="423" height="425" frameX="-14" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0002" x="863" y="0" width="423" height="425" frameX="-14" frameY="0" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0003" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0004" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0005" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0006" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0007" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0008" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0009" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0010" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0011" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido down miss0012" x="1286" y="0" width="425" height="421" frameX="-13" frameY="-4" frameWidth="439" frameHeight="425"/>
+	<SubTexture name="nido game over0000" x="1711" y="0" width="402" height="396" frameX="-219" frameY="-14" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0001" x="1711" y="0" width="402" height="396" frameX="-219" frameY="-14" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0002" x="1711" y="0" width="402" height="396" frameX="-219" frameY="-14" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0003" x="1711" y="0" width="402" height="396" frameX="-219" frameY="-14" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0004" x="2113" y="0" width="401" height="396" frameX="-217" frameY="-14" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0005" x="2113" y="0" width="401" height="396" frameX="-217" frameY="-14" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0006" x="2514" y="0" width="409" height="394" frameX="-208" frameY="-16" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0007" x="2514" y="0" width="409" height="394" frameX="-208" frameY="-16" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0008" x="2923" y="0" width="421" height="347" frameX="-208" frameY="-63" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0009" x="2923" y="0" width="421" height="347" frameX="-208" frameY="-63" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0010" x="3344" y="0" width="419" height="340" frameX="-209" frameY="-70" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0011" x="3344" y="0" width="419" height="340" frameX="-209" frameY="-70" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0012" x="3344" y="0" width="419" height="340" frameX="-209" frameY="-70" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0013" x="0" y="425" width="416" height="362" frameX="-213" frameY="-48" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0014" x="0" y="425" width="416" height="362" frameX="-213" frameY="-48" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0015" x="416" y="425" width="411" height="384" frameX="-219" frameY="-26" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0016" x="416" y="425" width="411" height="384" frameX="-219" frameY="-26" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0017" x="827" y="425" width="432" height="416" frameX="-211" frameY="-4" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0018" x="827" y="425" width="432" height="416" frameX="-211" frameY="-4" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0019" x="1259" y="425" width="433" height="415" frameX="-209" frameY="-1" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0020" x="1259" y="425" width="433" height="415" frameX="-209" frameY="-1" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0021" x="1692" y="425" width="432" height="419" frameX="-211" frameY="0" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0022" x="1692" y="425" width="432" height="419" frameX="-211" frameY="0" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0023" x="2124" y="425" width="402" height="373" frameX="-198" frameY="-49" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0024" x="2124" y="425" width="402" height="373" frameX="-198" frameY="-49" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0025" x="2526" y="425" width="572" height="360" frameX="-33" frameY="-66" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0026" x="2526" y="425" width="572" height="360" frameX="-33" frameY="-66" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0027" x="3098" y="425" width="609" height="395" frameX="-13" frameY="-66" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0028" x="3098" y="425" width="609" height="395" frameX="-13" frameY="-66" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0029" x="0" y="844" width="394" height="182" frameX="0" frameY="-247" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0030" x="0" y="844" width="394" height="182" frameX="0" frameY="-247" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0031" x="394" y="844" width="301" height="98" frameX="-16" frameY="-325" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0032" x="394" y="844" width="301" height="98" frameX="-16" frameY="-325" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0033" x="695" y="844" width="218" height="57" frameX="-18" frameY="-365" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0034" x="695" y="844" width="218" height="57" frameX="-18" frameY="-365" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0035" x="913" y="844" width="47" height="15" frameX="-21" frameY="-410" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0036" x="913" y="844" width="47" height="15" frameX="-21" frameY="-410" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido game over0037" x="960" y="844" width="2" height="2" frameX="-97" frameY="-405" frameWidth="643" frameHeight="461"/>
+	<SubTexture name="nido idle0000" x="962" y="844" width="433" height="409" frameX="0" frameY="-3" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0001" x="962" y="844" width="433" height="409" frameX="0" frameY="-3" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0002" x="1395" y="844" width="413" height="411" frameX="-13" frameY="0" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0003" x="1395" y="844" width="413" height="411" frameX="-13" frameY="0" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0004" x="1808" y="844" width="409" height="401" frameX="-19" frameY="-9" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0005" x="1808" y="844" width="409" height="401" frameX="-19" frameY="-9" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0006" x="2217" y="844" width="409" height="398" frameX="-19" frameY="-12" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0007" x="2217" y="844" width="409" height="398" frameX="-19" frameY="-12" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0008" x="2626" y="844" width="409" height="395" frameX="-19" frameY="-15" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0009" x="2626" y="844" width="409" height="395" frameX="-19" frameY="-15" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0010" x="3035" y="844" width="409" height="394" frameX="-19" frameY="-16" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0011" x="3035" y="844" width="409" height="394" frameX="-19" frameY="-16" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0012" x="3035" y="844" width="409" height="394" frameX="-19" frameY="-16" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0013" x="3035" y="844" width="409" height="394" frameX="-19" frameY="-16" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0014" x="3035" y="844" width="409" height="394" frameX="-19" frameY="-16" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido idle0015" x="3035" y="844" width="409" height="394" frameX="-19" frameY="-16" frameWidth="433" frameHeight="412"/>
+	<SubTexture name="nido left0000" x="3444" y="844" width="407" height="349" frameX="0" frameY="-7" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0001" x="3444" y="844" width="407" height="349" frameX="0" frameY="-7" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0002" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0003" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0004" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0005" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0006" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0007" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0008" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0009" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0010" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0011" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0012" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0013" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left0014" x="0" y="1255" width="415" height="356" frameX="-8" frameY="0" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left miss0000" x="3444" y="844" width="407" height="349" frameX="0" frameY="-12" frameWidth="423" frameHeight="356"/>
+	<SubTexture name="nido left miss0001" x="415" y="1255" width="413" height="360" frameX="-9" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0002" x="415" y="1255" width="413" height="360" frameX="-9" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0003" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0004" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0005" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0006" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0007" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0008" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0009" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0010" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0011" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0012" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0013" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido left miss0014" x="828" y="1255" width="414" height="360" frameX="-12" frameY="0" frameWidth="426" frameHeight="361"/>
+	<SubTexture name="nido right0000" x="1242" y="1255" width="441" height="349" frameX="-6" frameY="0" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0001" x="1242" y="1255" width="441" height="349" frameX="-6" frameY="0" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0002" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0003" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0004" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0005" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0006" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0007" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0008" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0009" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0010" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0011" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0012" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0013" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right0014" x="1683" y="1255" width="440" height="348" frameX="0" frameY="-1" frameWidth="447" frameHeight="349"/>
+	<SubTexture name="nido right miss0000" x="2123" y="1255" width="441" height="349" frameX="-6" frameY="-2" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0001" x="2564" y="1255" width="441" height="349" frameX="0" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0002" x="2564" y="1255" width="441" height="349" frameX="0" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0003" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0004" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0005" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0006" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0007" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0008" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0009" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0010" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0011" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido right miss0012" x="3005" y="1255" width="441" height="349" frameX="-5" frameY="0" frameWidth="447" frameHeight="351"/>
+	<SubTexture name="nido up0000" x="3446" y="1255" width="430" height="369" frameX="-5" frameY="-7" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0001" x="3446" y="1255" width="430" height="369" frameX="-5" frameY="-7" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0002" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0003" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0004" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0005" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0006" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0007" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0008" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0009" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0010" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0011" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0012" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0013" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up0014" x="0" y="1624" width="432" height="376" frameX="0" frameY="0" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up miss0000" x="3446" y="1255" width="430" height="369" frameX="-6" frameY="-6" frameWidth="435" frameHeight="376"/>
+	<SubTexture name="nido up miss0001" x="432" y="1624" width="441" height="370" frameX="0" frameY="-5" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0002" x="432" y="1624" width="441" height="370" frameX="0" frameY="-5" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0003" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0004" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0005" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0006" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0007" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0008" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0009" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0010" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0011" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0012" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0013" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+	<SubTexture name="nido up miss0014" x="873" y="1624" width="435" height="375" frameX="-3" frameY="0" frameWidth="441" frameHeight="375"/>
+</TextureAtlas>
